@@ -1,0 +1,14 @@
+com/udeg/MainActivity.java
+ com.udeg.MainActivity
+com/udeg/ReactNativeFlipper.java
+ com.udeg.ReactNativeFlipper
+ com.udeg.ReactNativeFlipper$1
+ com.udeg.ReactNativeFlipper$2
+ com.udeg.ReactNativeFlipper$2$1
+com/udeg/BuildConfig.java
+ com.udeg.BuildConfig
+com/udeg/MainApplication.java
+ com.udeg.MainApplication
+ com.udeg.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

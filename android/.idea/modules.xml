@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udeg.iml" filepath="$PROJECT_DIR$/.idea/modules/udeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/udeg.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/udeg.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/950341883/udeg.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/950341883/udeg.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/588253244/udeg.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/588253244/udeg.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1072672604/udeg.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1072672604/udeg.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1810325600/udeg.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1810325600/udeg.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-972947035/udeg.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-972947035/udeg.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2055259139/udeg.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2055259139/udeg.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1341564646/udeg.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1341564646/udeg.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
